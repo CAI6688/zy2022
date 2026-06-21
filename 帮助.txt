@@ -1,0 +1,22 @@
+自动写入html文件站点
+
+★点播接口 选择 html.json
+
+★路径示例图:
+手机根目录 (/storage/emulated/0/Box/WebHomeTV/asset/)
+  │
+  └──VOX
+        │
+        └──PRO
+                │
+                ├──其它文件
+                │
+                └──html.json
+
+
+①将 html文件 放到 /html/
+
+②源列表 选择 "刷新html.json" --> 点击 "HTML列表" 就会自动重写html.json
+
+③点击左上角头像 重新选择 html.json 就会看见新源列表
+
