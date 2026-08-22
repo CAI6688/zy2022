@@ -2,7 +2,7 @@
 "spider": "https://github.com/CAI6688/zy2022/blob/main/custom_spider.jar",
 
 "sites": [
-{"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_77"         ,"name":"🐞酷七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
